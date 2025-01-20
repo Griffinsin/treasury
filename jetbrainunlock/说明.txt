@@ -1,0 +1,6 @@
+Mac 系统激活指南
+打开终端应用程序。
+导航到激活工具文件夹。
+运行 uninstall.sh 脚本来清除旧激活信息。
+运行 install.sh 脚本进行激活。
+重新打开 IntelliJ IDEA，并输入激活码。
